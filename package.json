@@ -24,6 +24,6 @@
     "css-loader": "^0.28.11",
     "fscreen": "^1.0.2",
     "moment": "^2.22.1",
-    "sass-loader": "^6.0.7"
+    "sass-loader": "^7.3.1"
   }
 }
